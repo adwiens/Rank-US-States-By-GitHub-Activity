@@ -1,0 +1,22 @@
+{
+  "name": "knn-grid-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Andrew Wiens",
+  "license": "MIT",
+  "dependencies": {
+    "@tensorflow-models/knn-classifier": "1.0.0",
+    "@tensorflow-models/universal-sentence-encoder": "1.0.1",
+    "@tensorflow/tfjs": "1.0.0",
+    "bluebird": "^3.5.5",
+    "body-parser": "1.18.3",
+    "cors": "2.8.5",
+    "express": "4.16.4",
+    "lodash": "^4.17.14",
+    "node-fetch": "2.3.0"
+  },
+  "scripts": {
+    "start": "node .",
+    "encode": "node ./encode.js"
+  }
+}
