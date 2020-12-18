@@ -5,9 +5,8 @@ Scraper here: https://github.com/adwiens/scrape-github-activity-locations
 
 ## Results
 
-US State|Relative GitHub Activity over 6 Months
+US State|Relative GitHub Activity Per Capita over 6 Months
 --|--
-DC|210.7200526371976
 WA|100
 OR|64.12423112028756
 MA|62.593574734187854
@@ -58,3 +57,5 @@ AK|0
 WV|0
 NE|0
 WY|0
+
+Washington D.C. had 210.7200526371976 -- Omitted since it's not a state.
