@@ -5,6 +5,8 @@ Scraper here: https://github.com/adwiens/scrape-github-activity-locations
 
 ## Results
 
+Washington D.C. had 210.7200526371976 -- Omitted since it's not a state.
+
 US State|Relative GitHub Activity Per Capita over 6 Months
 --|--
 WA|100
@@ -57,5 +59,3 @@ AK|0
 WV|0
 NE|0
 WY|0
-
-Washington D.C. had 210.7200526371976 -- Omitted since it's not a state.
